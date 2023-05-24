@@ -23,7 +23,9 @@
 /* ID selectors */
 
 #d1 {
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #d2 {
