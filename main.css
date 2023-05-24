@@ -40,13 +40,23 @@
 }
 
 #d4 {
-
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #d5 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
 
 }
 
 #d6 {
-
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
 }
